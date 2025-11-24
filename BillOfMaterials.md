@@ -2,5 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|9.5 2x6|1|$0.00||
+|91 2x6|1|$0.00||
 |Total: |1|$0.00| |

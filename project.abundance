@@ -7,8 +7,8 @@
   "ioValues": [
     {
       "name": "Length",
-      "ioValue": 9.5,
-      "currentEquation": "9.5"
+      "ioValue": 91,
+      "currentEquation": "91"
     }
   ],
   "topLevel": true,
@@ -54,7 +54,7 @@
       "ioValues": [
         {
           "name": "L",
-          "ioValue": 9.5
+          "ioValue": 91
         }
       ],
       "currentEquation": "L*25.4"
@@ -67,7 +67,7 @@
       "ioValues": [
         {
           "name": "height",
-          "ioValue": 241.29999999999998
+          "ioValue": 2311.4
         }
       ]
     },
@@ -80,7 +80,7 @@
       "ioValues": [
         {
           "name": "L",
-          "ioValue": 9.5
+          "ioValue": 91
         }
       ],
       "currentEquation": "L + “ 2x6”"
@@ -94,7 +94,7 @@
       "ioValues": [
         {
           "name": "Item Name",
-          "ioValue": "9.5 2x6"
+          "ioValue": "91 2x6"
         },
         {
           "name": "Number Needed",
@@ -110,7 +110,7 @@
         }
       ],
       "BOMitem": {
-        "BOMitemName": "9.5 2x6",
+        "BOMitemName": "91 2x6",
         "numberNeeded": 1,
         "costUSD": 0,
         "source": ""
