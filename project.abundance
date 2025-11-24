@@ -7,8 +7,7 @@
   "ioValues": [
     {
       "name": "Length",
-      "ioValue": 43,
-      "currentEquation": "43"
+      "ioValue": 43
     }
   ],
   "topLevel": true,
