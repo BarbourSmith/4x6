@@ -2,5 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|New Item|1|$0.00|www.example.com|
-|Total: |1|$0.00| |
+|48 2x6|1|$10.00|Lumber Yard|
+|Total: |1|$10.00| |

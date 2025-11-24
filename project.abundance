@@ -87,8 +87,8 @@
     },
     {
       "atomType": "Add-BOM-Tag",
-      "x": 0.6793893129770993,
-      "y": 0.5578947368421052,
+      "x": 0.6815597075548334,
+      "y": 0.5933147632311978,
       "uniqueID": "id-27270",
       "name": "Add BOM Tag",
       "ioValues": [
@@ -110,10 +110,10 @@
         }
       ],
       "BOMitem": {
-        "BOMitemName": "New Item",
+        "BOMitemName": "48 2x6",
         "numberNeeded": 1,
-        "costUSD": 0,
-        "source": "www.example.com"
+        "costUSD": 10,
+        "source": "Lumber Yard"
       }
     }
   ],
