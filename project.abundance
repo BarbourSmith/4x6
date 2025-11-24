@@ -7,8 +7,8 @@
   "ioValues": [
     {
       "name": "Length",
-      "ioValue": 12,
-      "currentEquation": "12"
+      "ioValue": 48,
+      "currentEquation": "48"
     }
   ],
   "topLevel": true,
@@ -39,8 +39,8 @@
     },
     {
       "atomType": "Input",
-      "x": 0.05499999999999999,
-      "y": 0.27017543859649124,
+      "x": 0.025384615384615384,
+      "y": 0.15384615384615385,
       "uniqueID": "id-27253",
       "name": "Length",
       "type": "number"
@@ -54,7 +54,7 @@
       "ioValues": [
         {
           "name": "L",
-          "ioValue": 12
+          "ioValue": 48
         }
       ],
       "currentEquation": "L*25.4"
@@ -67,7 +67,7 @@
       "ioValues": [
         {
           "name": "height",
-          "ioValue": 304.79999999999995
+          "ioValue": 1219.1999999999998
         }
       ]
     },
@@ -80,7 +80,7 @@
       "ioValues": [
         {
           "name": "L",
-          "ioValue": 12
+          "ioValue": 48
         }
       ],
       "currentEquation": "L + “ 2x6”"
@@ -92,6 +92,10 @@
       "uniqueID": "id-27270",
       "name": "Add BOM Tag",
       "ioValues": [
+        {
+          "name": "Item Name",
+          "ioValue": "48 2x6"
+        },
         {
           "name": "Number Needed",
           "ioValue": 1
