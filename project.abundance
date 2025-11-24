@@ -7,8 +7,7 @@
   "ioValues": [
     {
       "name": "Length",
-      "ioValue": 36,
-      "currentEquation": "36"
+      "ioValue": 36
     }
   ],
   "topLevel": true,
@@ -73,8 +72,8 @@
     },
     {
       "atomType": "Equation",
-      "x": 0.4020356234096692,
-      "y": 0.4,
+      "x": 0.33796296296296297,
+      "y": 0.22005571030640667,
       "uniqueID": "id-27265",
       "name": "L + “ 2x6”",
       "ioValues": [
@@ -87,8 +86,8 @@
     },
     {
       "atomType": "Add-BOM-Tag",
-      "x": 0.6752645502645503,
-      "y": 0.5403899721448467,
+      "x": 0.5324074074074074,
+      "y": 0.3788300835654596,
       "uniqueID": "id-27270",
       "name": "Add BOM Tag",
       "ioValues": [
@@ -110,10 +109,10 @@
         }
       ],
       "BOMitem": {
-        "BOMitemName": "48 2x6",
+        "BOMitemName": "36 2x6",
         "numberNeeded": 1,
-        "costUSD": 10,
-        "source": "Lumber Yard"
+        "costUSD": 0,
+        "source": ""
       }
     }
   ],
